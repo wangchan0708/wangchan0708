@@ -1,6 +1,6 @@
 ＃Hello there, I'm Amber👋
 
-<br>Now, I'm working as IoT Engineer in automobile industry.
+Now, I'm working as IoT Engineer in automobile industry.
 <br>Thank you for your visit. I'm looking forward to hearing more advices on programming.
 <br>If there is any chance to join the development of open source, plz contact me without hesitation.
 
